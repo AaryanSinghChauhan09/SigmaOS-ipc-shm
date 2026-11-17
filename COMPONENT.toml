@@ -3,7 +3,7 @@ name = "SigmaOS-ipc-shm"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ipc-shm component"
+description = "ipc shm component"
 upstream = []
 
 [contract]
